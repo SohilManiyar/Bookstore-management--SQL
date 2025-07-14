@@ -35,20 +35,20 @@
 - Total Amount
 
 <br>
-### I solve query relted to  task and Questions
+.  I solve query relted to  task and Questions
 <br>
 <br>
 ## 📌 Question Overview
---  Find the most frequently ordered book:
+Q.  Find the most frequently ordered book:
 <br>
--- Retrieve the total quantity of books sold by each author:
+Q.  Retrieve the total quantity of books sold by each author:
 <br>
--- List the cities where customers who spent over $30 are located:
+Q.  List the cities where customers who spent over $30 are located:
 <br>
---  Find the customer who spent the most on orders:
+Q.  Find the customer who spent the most on orders:
 
 <br>
--- Calculate the stock remaining after fulfilling all orders:
+Q.  Calculate the stock remaining after fulfilling all orders:
 
 <br>
 ## 🌱 What I Learned From This Project
